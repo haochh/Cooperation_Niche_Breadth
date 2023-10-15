@@ -1,0 +1,833 @@
+pathway,ko,pathway.info
+map00010,K00134,Glycolysis / Gluconeogenesis
+map00010,K00382,Glycolysis / Gluconeogenesis
+map00010,K00873,Glycolysis / Gluconeogenesis
+map00010,K00927,Glycolysis / Gluconeogenesis
+map00010,K01689,Glycolysis / Gluconeogenesis
+map00010,K01803,Glycolysis / Gluconeogenesis
+map00010,K01810,Glycolysis / Gluconeogenesis
+map00020,K00382,Citrate cycle (TCA cycle)
+map00030,K00615,Pentose phosphate pathway
+map00030,K00616,Pentose phosphate pathway
+map00030,K00948,Pentose phosphate pathway
+map00030,K01783,Pentose phosphate pathway
+map00030,K01810,Pentose phosphate pathway
+map00040,K01783,Pentose and glucuronate interconversions
+map00051,K01803,Fructose and mannose metabolism
+map00052,K01784,Galactose metabolism
+map00061,K00059,Fatty acid biosynthesis
+map00061,K00645,Fatty acid biosynthesis
+map00061,K00648,Fatty acid biosynthesis
+map00190,K02108,Oxidative phosphorylation
+map00190,K02109,Oxidative phosphorylation
+map00190,K02111,Oxidative phosphorylation
+map00190,K02112,Oxidative phosphorylation
+map00190,K02113,Oxidative phosphorylation
+map00190,K02114,Oxidative phosphorylation
+map00190,K02115,Oxidative phosphorylation
+map00195,K02108,Photosynthesis
+map00195,K02109,Photosynthesis
+map00195,K02111,Photosynthesis
+map00195,K02112,Photosynthesis
+map00195,K02113,Photosynthesis
+map00195,K02114,Photosynthesis
+map00195,K02115,Photosynthesis
+map00220,K00145,Arginine biosynthesis
+map00220,K00611,Arginine biosynthesis
+map00220,K01755,Arginine biosynthesis
+map00220,K01915,Arginine biosynthesis
+map00220,K01940,Arginine biosynthesis
+map00230,K00088,Purine metabolism
+map00230,K00525,Purine metabolism
+map00230,K00602,Purine metabolism
+map00230,K00760,Purine metabolism
+map00230,K00764,Purine metabolism
+map00230,K00939,Purine metabolism
+map00230,K00940,Purine metabolism
+map00230,K00942,Purine metabolism
+map00230,K00948,Purine metabolism
+map00230,K01139,Purine metabolism
+map00230,K01519,Purine metabolism
+map00230,K01588,Purine metabolism
+map00230,K01756,Purine metabolism
+map00230,K01923,Purine metabolism
+map00230,K01933,Purine metabolism
+map00230,K01939,Purine metabolism
+map00230,K01945,Purine metabolism
+map00230,K01951,Purine metabolism
+map00230,K11175,Purine metabolism
+map00240,K00525,Pyrimidine metabolism
+map00240,K00609,Pyrimidine metabolism
+map00240,K00762,Pyrimidine metabolism
+map00240,K00940,Pyrimidine metabolism
+map00240,K00945,Pyrimidine metabolism
+map00240,K01591,Pyrimidine metabolism
+map00240,K01937,Pyrimidine metabolism
+map00240,K01955,Pyrimidine metabolism
+map00240,K01956,Pyrimidine metabolism
+map00240,K06287,Pyrimidine metabolism
+map00240,K09903,Pyrimidine metabolism
+map00250,K00609,Alanine, aspartate and glutamate metabolism
+map00250,K00764,Alanine, aspartate and glutamate metabolism
+map00250,K00820,Alanine, aspartate and glutamate metabolism
+map00250,K01755,Alanine, aspartate and glutamate metabolism
+map00250,K01756,Alanine, aspartate and glutamate metabolism
+map00250,K01915,Alanine, aspartate and glutamate metabolism
+map00250,K01939,Alanine, aspartate and glutamate metabolism
+map00250,K01940,Alanine, aspartate and glutamate metabolism
+map00250,K01955,Alanine, aspartate and glutamate metabolism
+map00250,K01956,Alanine, aspartate and glutamate metabolism
+map00260,K00133,Glycine, serine and threonine metabolism
+map00260,K00382,Glycine, serine and threonine metabolism
+map00260,K00600,Glycine, serine and threonine metabolism
+map00260,K01695,Glycine, serine and threonine metabolism
+map00260,K01696,Glycine, serine and threonine metabolism
+map00260,K01733,Glycine, serine and threonine metabolism
+map00260,K01754,Glycine, serine and threonine metabolism
+map00260,K02437,Glycine, serine and threonine metabolism
+map00261,K00133,Monobactam biosynthesis
+map00261,K00215,Monobactam biosynthesis
+map00261,K01714,Monobactam biosynthesis
+map00270,K00133,Cysteine and methionine metabolism
+map00270,K00789,Cysteine and methionine metabolism
+map00270,K00826,Cysteine and methionine metabolism
+map00280,K00382,Valine, leucine and isoleucine degradation
+map00280,K00826,Valine, leucine and isoleucine degradation
+map00290,K00052,Valine, leucine and isoleucine biosynthesis
+map00290,K00053,Valine, leucine and isoleucine biosynthesis
+map00290,K00826,Valine, leucine and isoleucine biosynthesis
+map00290,K01649,Valine, leucine and isoleucine biosynthesis
+map00290,K01652,Valine, leucine and isoleucine biosynthesis
+map00290,K01653,Valine, leucine and isoleucine biosynthesis
+map00290,K01687,Valine, leucine and isoleucine biosynthesis
+map00290,K01703,Valine, leucine and isoleucine biosynthesis
+map00290,K01704,Valine, leucine and isoleucine biosynthesis
+map00290,K01754,Valine, leucine and isoleucine biosynthesis
+map00300,K00133,Lysine biosynthesis
+map00300,K00215,Lysine biosynthesis
+map00300,K01586,Lysine biosynthesis
+map00300,K01714,Lysine biosynthesis
+map00300,K01778,Lysine biosynthesis
+map00300,K01928,Lysine biosynthesis
+map00300,K01929,Lysine biosynthesis
+map00310,K00382,Lysine degradation
+map00330,K00286,Arginine and proline metabolism
+map00333,K00059,Prodigiosin biosynthesis
+map00333,K00645,Prodigiosin biosynthesis
+map00340,K00013,Histidine metabolism
+map00340,K00765,Histidine metabolism
+map00340,K00817,Histidine metabolism
+map00340,K02500,Histidine metabolism
+map00340,K02501,Histidine metabolism
+map00350,K00817,Tyrosine metabolism
+map00360,K00817,Phenylalanine metabolism
+map00380,K00382,Tryptophan metabolism
+map00400,K00800,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00400,K00817,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00400,K00891,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00400,K01695,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00400,K01696,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00400,K01735,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00400,K01736,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00400,K01817,Phenylalanine, tyrosine and tryptophan biosynthesis
+map00401,K00817,Novobiocin biosynthesis
+map00450,K00384,Selenocompound metabolism
+map00450,K01874,Selenocompound metabolism
+map00460,K00600,Cyanoamino acid metabolism
+map00470,K01586,D-Amino acid metabolism
+map00470,K01775,D-Amino acid metabolism
+map00470,K01778,D-Amino acid metabolism
+map00470,K01921,D-Amino acid metabolism
+map00470,K01925,D-Amino acid metabolism
+map00500,K01810,Starch and sucrose metabolism
+map00520,K00075,Amino sugar and nucleotide sugar metabolism
+map00520,K00790,Amino sugar and nucleotide sugar metabolism
+map00520,K00820,Amino sugar and nucleotide sugar metabolism
+map00520,K01784,Amino sugar and nucleotide sugar metabolism
+map00520,K01810,Amino sugar and nucleotide sugar metabolism
+map00541,K01784,O-Antigen nucleotide sugar biosynthesis
+map00550,K00075,Peptidoglycan biosynthesis
+map00550,K00790,Peptidoglycan biosynthesis
+map00550,K00806,Peptidoglycan biosynthesis
+map00550,K01000,Peptidoglycan biosynthesis
+map00550,K01921,Peptidoglycan biosynthesis
+map00550,K01924,Peptidoglycan biosynthesis
+map00550,K01925,Peptidoglycan biosynthesis
+map00550,K01928,Peptidoglycan biosynthesis
+map00550,K01929,Peptidoglycan biosynthesis
+map00550,K02563,Peptidoglycan biosynthesis
+map00550,K03587,Peptidoglycan biosynthesis
+map00550,K06153,Peptidoglycan biosynthesis
+map00552,K06153,Teichoic acid biosynthesis
+map00561,K00655,Glycerolipid metabolism
+map00562,K01803,Inositol phosphate metabolism
+map00564,K00057,Glycerophospholipid metabolism
+map00564,K00655,Glycerophospholipid metabolism
+map00564,K00981,Glycerophospholipid metabolism
+map00620,K00382,Pyruvate metabolism
+map00620,K00873,Pyruvate metabolism
+map00620,K01069,Pyruvate metabolism
+map00620,K01649,Pyruvate metabolism
+map00630,K00382,Glyoxylate and dicarboxylate metabolism
+map00630,K00600,Glyoxylate and dicarboxylate metabolism
+map00630,K01091,Glyoxylate and dicarboxylate metabolism
+map00630,K01915,Glyoxylate and dicarboxylate metabolism
+map00630,K02437,Glyoxylate and dicarboxylate metabolism
+map00640,K00382,Propanoate metabolism
+map00650,K01652,Butanoate metabolism
+map00650,K01653,Butanoate metabolism
+map00660,K00052,C5-Branched dibasic acid metabolism
+map00660,K01652,C5-Branched dibasic acid metabolism
+map00660,K01653,C5-Branched dibasic acid metabolism
+map00660,K01703,C5-Branched dibasic acid metabolism
+map00660,K01704,C5-Branched dibasic acid metabolism
+map00670,K00600,One carbon pool by folate
+map00670,K00602,One carbon pool by folate
+map00670,K00604,One carbon pool by folate
+map00670,K01491,One carbon pool by folate
+map00670,K01934,One carbon pool by folate
+map00670,K11175,One carbon pool by folate
+map00680,K00600,Methane metabolism
+map00680,K01689,Methane metabolism
+map00710,K00134,Carbon fixation in photosynthetic organisms
+map00710,K00615,Carbon fixation in photosynthetic organisms
+map00710,K00927,Carbon fixation in photosynthetic organisms
+map00710,K01783,Carbon fixation in photosynthetic organisms
+map00710,K01803,Carbon fixation in photosynthetic organisms
+map00720,K01491,Carbon fixation pathways in prokaryotes
+map00730,K00939,Thiamine metabolism
+map00730,K01662,Thiamine metabolism
+map00730,K04487,Thiamine metabolism
+map00740,K00793,Riboflavin metabolism
+map00740,K00794,Riboflavin metabolism
+map00740,K11752,Riboflavin metabolism
+map00740,K11753,Riboflavin metabolism
+map00750,K01733,Vitamin B6 metabolism
+map00760,K00858,Nicotinate and nicotinamide metabolism
+map00760,K00969,Nicotinate and nicotinamide metabolism
+map00760,K03743,Nicotinate and nicotinamide metabolism
+map00770,K00053,Pantothenate and CoA biosynthesis
+map00770,K00826,Pantothenate and CoA biosynthesis
+map00770,K00859,Pantothenate and CoA biosynthesis
+map00770,K00954,Pantothenate and CoA biosynthesis
+map00770,K01652,Pantothenate and CoA biosynthesis
+map00770,K01653,Pantothenate and CoA biosynthesis
+map00770,K01687,Pantothenate and CoA biosynthesis
+map00770,K13038,Pantothenate and CoA biosynthesis
+map00780,K00059,Biotin metabolism
+map00780,K03524,Biotin metabolism
+map00785,K00382,Lipoic acid metabolism
+map00785,K02437,Lipoic acid metabolism
+map00790,K00796,Folate biosynthesis
+map00790,K00950,Folate biosynthesis
+map00790,K11754,Folate biosynthesis
+map00860,K01698,Porphyrin metabolism
+map00860,K01719,Porphyrin metabolism
+map00860,K01749,Porphyrin metabolism
+map00860,K01885,Porphyrin metabolism
+map00860,K02495,Porphyrin metabolism
+map00900,K00806,Terpenoid backbone biosynthesis
+map00900,K00919,Terpenoid backbone biosynthesis
+map00900,K01662,Terpenoid backbone biosynthesis
+map00900,K03526,Terpenoid backbone biosynthesis
+map00900,K03527,Terpenoid backbone biosynthesis
+map00908,K00791,Zeatin biosynthesis
+map00910,K01915,Nitrogen metabolism
+map00960,K00817,Tropane, piperidine and pyridine alkaloid biosynthesis
+map00966,K00826,Glucosinolate biosynthesis
+map00966,K01703,Glucosinolate biosynthesis
+map00970,K00604,Aminoacyl-tRNA biosynthesis
+map00970,K01866,Aminoacyl-tRNA biosynthesis
+map00970,K01867,Aminoacyl-tRNA biosynthesis
+map00970,K01868,Aminoacyl-tRNA biosynthesis
+map00970,K01869,Aminoacyl-tRNA biosynthesis
+map00970,K01870,Aminoacyl-tRNA biosynthesis
+map00970,K01872,Aminoacyl-tRNA biosynthesis
+map00970,K01873,Aminoacyl-tRNA biosynthesis
+map00970,K01874,Aminoacyl-tRNA biosynthesis
+map00970,K01875,Aminoacyl-tRNA biosynthesis
+map00970,K01876,Aminoacyl-tRNA biosynthesis
+map00970,K01881,Aminoacyl-tRNA biosynthesis
+map00970,K01883,Aminoacyl-tRNA biosynthesis
+map00970,K01885,Aminoacyl-tRNA biosynthesis
+map00970,K01887,Aminoacyl-tRNA biosynthesis
+map00970,K01889,Aminoacyl-tRNA biosynthesis
+map00970,K01890,Aminoacyl-tRNA biosynthesis
+map00970,K01892,Aminoacyl-tRNA biosynthesis
+map00983,K00088,Drug metabolism - other enzymes
+map00983,K00760,Drug metabolism - other enzymes
+map00983,K00940,Drug metabolism - other enzymes
+map00983,K01519,Drug metabolism - other enzymes
+map00983,K01951,Drug metabolism - other enzymes
+map00998,K02078,Biosynthesis of various antibiotics
+map00999,K00789,Biosynthesis of various plant secondary metabolites
+map01051,K00615,Biosynthesis of ansamycins
+map01100,K00013,Metabolic pathways
+map01100,K00052,Metabolic pathways
+map01100,K00053,Metabolic pathways
+map01100,K00059,Metabolic pathways
+map01100,K00075,Metabolic pathways
+map01100,K00088,Metabolic pathways
+map01100,K00133,Metabolic pathways
+map01100,K00134,Metabolic pathways
+map01100,K00145,Metabolic pathways
+map01100,K00215,Metabolic pathways
+map01100,K00286,Metabolic pathways
+map01100,K00382,Metabolic pathways
+map01100,K00525,Metabolic pathways
+map01100,K00600,Metabolic pathways
+map01100,K00602,Metabolic pathways
+map01100,K00604,Metabolic pathways
+map01100,K00609,Metabolic pathways
+map01100,K00611,Metabolic pathways
+map01100,K00615,Metabolic pathways
+map01100,K00616,Metabolic pathways
+map01100,K00645,Metabolic pathways
+map01100,K00648,Metabolic pathways
+map01100,K00655,Metabolic pathways
+map01100,K00760,Metabolic pathways
+map01100,K00762,Metabolic pathways
+map01100,K00764,Metabolic pathways
+map01100,K00765,Metabolic pathways
+map01100,K00789,Metabolic pathways
+map01100,K00790,Metabolic pathways
+map01100,K00791,Metabolic pathways
+map01100,K00793,Metabolic pathways
+map01100,K00794,Metabolic pathways
+map01100,K00796,Metabolic pathways
+map01100,K00800,Metabolic pathways
+map01100,K00817,Metabolic pathways
+map01100,K00820,Metabolic pathways
+map01100,K00826,Metabolic pathways
+map01100,K00858,Metabolic pathways
+map01100,K00859,Metabolic pathways
+map01100,K00873,Metabolic pathways
+map01100,K00891,Metabolic pathways
+map01100,K00919,Metabolic pathways
+map01100,K00927,Metabolic pathways
+map01100,K00939,Metabolic pathways
+map01100,K00940,Metabolic pathways
+map01100,K00942,Metabolic pathways
+map01100,K00945,Metabolic pathways
+map01100,K00948,Metabolic pathways
+map01100,K00950,Metabolic pathways
+map01100,K00954,Metabolic pathways
+map01100,K00969,Metabolic pathways
+map01100,K00981,Metabolic pathways
+map01100,K01000,Metabolic pathways
+map01100,K01069,Metabolic pathways
+map01100,K01091,Metabolic pathways
+map01100,K01139,Metabolic pathways
+map01100,K01491,Metabolic pathways
+map01100,K01519,Metabolic pathways
+map01100,K01586,Metabolic pathways
+map01100,K01588,Metabolic pathways
+map01100,K01591,Metabolic pathways
+map01100,K01649,Metabolic pathways
+map01100,K01652,Metabolic pathways
+map01100,K01653,Metabolic pathways
+map01100,K01662,Metabolic pathways
+map01100,K01687,Metabolic pathways
+map01100,K01689,Metabolic pathways
+map01100,K01695,Metabolic pathways
+map01100,K01696,Metabolic pathways
+map01100,K01698,Metabolic pathways
+map01100,K01703,Metabolic pathways
+map01100,K01704,Metabolic pathways
+map01100,K01714,Metabolic pathways
+map01100,K01719,Metabolic pathways
+map01100,K01733,Metabolic pathways
+map01100,K01735,Metabolic pathways
+map01100,K01736,Metabolic pathways
+map01100,K01749,Metabolic pathways
+map01100,K01754,Metabolic pathways
+map01100,K01755,Metabolic pathways
+map01100,K01756,Metabolic pathways
+map01100,K01775,Metabolic pathways
+map01100,K01778,Metabolic pathways
+map01100,K01783,Metabolic pathways
+map01100,K01784,Metabolic pathways
+map01100,K01803,Metabolic pathways
+map01100,K01810,Metabolic pathways
+map01100,K01817,Metabolic pathways
+map01100,K01874,Metabolic pathways
+map01100,K01885,Metabolic pathways
+map01100,K01915,Metabolic pathways
+map01100,K01921,Metabolic pathways
+map01100,K01923,Metabolic pathways
+map01100,K01924,Metabolic pathways
+map01100,K01925,Metabolic pathways
+map01100,K01928,Metabolic pathways
+map01100,K01929,Metabolic pathways
+map01100,K01933,Metabolic pathways
+map01100,K01934,Metabolic pathways
+map01100,K01937,Metabolic pathways
+map01100,K01939,Metabolic pathways
+map01100,K01940,Metabolic pathways
+map01100,K01945,Metabolic pathways
+map01100,K01951,Metabolic pathways
+map01100,K01955,Metabolic pathways
+map01100,K01956,Metabolic pathways
+map01100,K02078,Metabolic pathways
+map01100,K02108,Metabolic pathways
+map01100,K02109,Metabolic pathways
+map01100,K02111,Metabolic pathways
+map01100,K02112,Metabolic pathways
+map01100,K02113,Metabolic pathways
+map01100,K02114,Metabolic pathways
+map01100,K02115,Metabolic pathways
+map01100,K02437,Metabolic pathways
+map01100,K02495,Metabolic pathways
+map01100,K02500,Metabolic pathways
+map01100,K02501,Metabolic pathways
+map01100,K02563,Metabolic pathways
+map01100,K03524,Metabolic pathways
+map01100,K03526,Metabolic pathways
+map01100,K03527,Metabolic pathways
+map01100,K03587,Metabolic pathways
+map01100,K03743,Metabolic pathways
+map01100,K04487,Metabolic pathways
+map01100,K06287,Metabolic pathways
+map01100,K09903,Metabolic pathways
+map01100,K11175,Metabolic pathways
+map01100,K11752,Metabolic pathways
+map01100,K11753,Metabolic pathways
+map01100,K11754,Metabolic pathways
+map01100,K13038,Metabolic pathways
+map01110,K00013,Biosynthesis of secondary metabolites
+map01110,K00052,Biosynthesis of secondary metabolites
+map01110,K00053,Biosynthesis of secondary metabolites
+map01110,K00057,Biosynthesis of secondary metabolites
+map01110,K00059,Biosynthesis of secondary metabolites
+map01110,K00088,Biosynthesis of secondary metabolites
+map01110,K00133,Biosynthesis of secondary metabolites
+map01110,K00134,Biosynthesis of secondary metabolites
+map01110,K00145,Biosynthesis of secondary metabolites
+map01110,K00215,Biosynthesis of secondary metabolites
+map01110,K00286,Biosynthesis of secondary metabolites
+map01110,K00382,Biosynthesis of secondary metabolites
+map01110,K00600,Biosynthesis of secondary metabolites
+map01110,K00602,Biosynthesis of secondary metabolites
+map01110,K00611,Biosynthesis of secondary metabolites
+map01110,K00615,Biosynthesis of secondary metabolites
+map01110,K00616,Biosynthesis of secondary metabolites
+map01110,K00645,Biosynthesis of secondary metabolites
+map01110,K00655,Biosynthesis of secondary metabolites
+map01110,K00760,Biosynthesis of secondary metabolites
+map01110,K00764,Biosynthesis of secondary metabolites
+map01110,K00765,Biosynthesis of secondary metabolites
+map01110,K00789,Biosynthesis of secondary metabolites
+map01110,K00791,Biosynthesis of secondary metabolites
+map01110,K00793,Biosynthesis of secondary metabolites
+map01110,K00794,Biosynthesis of secondary metabolites
+map01110,K00800,Biosynthesis of secondary metabolites
+map01110,K00806,Biosynthesis of secondary metabolites
+map01110,K00817,Biosynthesis of secondary metabolites
+map01110,K00826,Biosynthesis of secondary metabolites
+map01110,K00873,Biosynthesis of secondary metabolites
+map01110,K00891,Biosynthesis of secondary metabolites
+map01110,K00919,Biosynthesis of secondary metabolites
+map01110,K00927,Biosynthesis of secondary metabolites
+map01110,K00939,Biosynthesis of secondary metabolites
+map01110,K00940,Biosynthesis of secondary metabolites
+map01110,K00948,Biosynthesis of secondary metabolites
+map01110,K00981,Biosynthesis of secondary metabolites
+map01110,K01091,Biosynthesis of secondary metabolites
+map01110,K01586,Biosynthesis of secondary metabolites
+map01110,K01588,Biosynthesis of secondary metabolites
+map01110,K01649,Biosynthesis of secondary metabolites
+map01110,K01652,Biosynthesis of secondary metabolites
+map01110,K01653,Biosynthesis of secondary metabolites
+map01110,K01662,Biosynthesis of secondary metabolites
+map01110,K01687,Biosynthesis of secondary metabolites
+map01110,K01689,Biosynthesis of secondary metabolites
+map01110,K01695,Biosynthesis of secondary metabolites
+map01110,K01696,Biosynthesis of secondary metabolites
+map01110,K01698,Biosynthesis of secondary metabolites
+map01110,K01703,Biosynthesis of secondary metabolites
+map01110,K01704,Biosynthesis of secondary metabolites
+map01110,K01714,Biosynthesis of secondary metabolites
+map01110,K01719,Biosynthesis of secondary metabolites
+map01110,K01733,Biosynthesis of secondary metabolites
+map01110,K01735,Biosynthesis of secondary metabolites
+map01110,K01736,Biosynthesis of secondary metabolites
+map01110,K01749,Biosynthesis of secondary metabolites
+map01110,K01754,Biosynthesis of secondary metabolites
+map01110,K01755,Biosynthesis of secondary metabolites
+map01110,K01756,Biosynthesis of secondary metabolites
+map01110,K01778,Biosynthesis of secondary metabolites
+map01110,K01783,Biosynthesis of secondary metabolites
+map01110,K01803,Biosynthesis of secondary metabolites
+map01110,K01810,Biosynthesis of secondary metabolites
+map01110,K01817,Biosynthesis of secondary metabolites
+map01110,K01885,Biosynthesis of secondary metabolites
+map01110,K01923,Biosynthesis of secondary metabolites
+map01110,K01933,Biosynthesis of secondary metabolites
+map01110,K01940,Biosynthesis of secondary metabolites
+map01110,K01945,Biosynthesis of secondary metabolites
+map01110,K02078,Biosynthesis of secondary metabolites
+map01110,K02437,Biosynthesis of secondary metabolites
+map01110,K02495,Biosynthesis of secondary metabolites
+map01110,K02500,Biosynthesis of secondary metabolites
+map01110,K02501,Biosynthesis of secondary metabolites
+map01110,K03526,Biosynthesis of secondary metabolites
+map01110,K03527,Biosynthesis of secondary metabolites
+map01110,K11175,Biosynthesis of secondary metabolites
+map01110,K11752,Biosynthesis of secondary metabolites
+map01110,K11753,Biosynthesis of secondary metabolites
+map01120,K00133,Microbial metabolism in diverse environments
+map01120,K00134,Microbial metabolism in diverse environments
+map01120,K00215,Microbial metabolism in diverse environments
+map01120,K00382,Microbial metabolism in diverse environments
+map01120,K00600,Microbial metabolism in diverse environments
+map01120,K00615,Microbial metabolism in diverse environments
+map01120,K00616,Microbial metabolism in diverse environments
+map01120,K00873,Microbial metabolism in diverse environments
+map01120,K00927,Microbial metabolism in diverse environments
+map01120,K00948,Microbial metabolism in diverse environments
+map01120,K01491,Microbial metabolism in diverse environments
+map01120,K01586,Microbial metabolism in diverse environments
+map01120,K01689,Microbial metabolism in diverse environments
+map01120,K01698,Microbial metabolism in diverse environments
+map01120,K01714,Microbial metabolism in diverse environments
+map01120,K01719,Microbial metabolism in diverse environments
+map01120,K01733,Microbial metabolism in diverse environments
+map01120,K01749,Microbial metabolism in diverse environments
+map01120,K01778,Microbial metabolism in diverse environments
+map01120,K01783,Microbial metabolism in diverse environments
+map01120,K01803,Microbial metabolism in diverse environments
+map01120,K01810,Microbial metabolism in diverse environments
+map01120,K01885,Microbial metabolism in diverse environments
+map01120,K01915,Microbial metabolism in diverse environments
+map01200,K00134,Carbon metabolism
+map01200,K00382,Carbon metabolism
+map01200,K00600,Carbon metabolism
+map01200,K00615,Carbon metabolism
+map01200,K00616,Carbon metabolism
+map01200,K00873,Carbon metabolism
+map01200,K00927,Carbon metabolism
+map01200,K00948,Carbon metabolism
+map01200,K01491,Carbon metabolism
+map01200,K01689,Carbon metabolism
+map01200,K01754,Carbon metabolism
+map01200,K01783,Carbon metabolism
+map01200,K01803,Carbon metabolism
+map01200,K01810,Carbon metabolism
+map01200,K02437,Carbon metabolism
+map01210,K00052,2-Oxocarboxylic acid metabolism
+map01210,K00053,2-Oxocarboxylic acid metabolism
+map01210,K00133,2-Oxocarboxylic acid metabolism
+map01210,K00145,2-Oxocarboxylic acid metabolism
+map01210,K00826,2-Oxocarboxylic acid metabolism
+map01210,K01649,2-Oxocarboxylic acid metabolism
+map01210,K01652,2-Oxocarboxylic acid metabolism
+map01210,K01653,2-Oxocarboxylic acid metabolism
+map01210,K01687,2-Oxocarboxylic acid metabolism
+map01210,K01703,2-Oxocarboxylic acid metabolism
+map01210,K01704,2-Oxocarboxylic acid metabolism
+map01212,K00059,Fatty acid metabolism
+map01212,K00645,Fatty acid metabolism
+map01212,K00648,Fatty acid metabolism
+map01230,K00013,Biosynthesis of amino acids
+map01230,K00052,Biosynthesis of amino acids
+map01230,K00053,Biosynthesis of amino acids
+map01230,K00133,Biosynthesis of amino acids
+map01230,K00134,Biosynthesis of amino acids
+map01230,K00145,Biosynthesis of amino acids
+map01230,K00215,Biosynthesis of amino acids
+map01230,K00286,Biosynthesis of amino acids
+map01230,K00600,Biosynthesis of amino acids
+map01230,K00611,Biosynthesis of amino acids
+map01230,K00615,Biosynthesis of amino acids
+map01230,K00616,Biosynthesis of amino acids
+map01230,K00765,Biosynthesis of amino acids
+map01230,K00789,Biosynthesis of amino acids
+map01230,K00800,Biosynthesis of amino acids
+map01230,K00817,Biosynthesis of amino acids
+map01230,K00826,Biosynthesis of amino acids
+map01230,K00873,Biosynthesis of amino acids
+map01230,K00891,Biosynthesis of amino acids
+map01230,K00927,Biosynthesis of amino acids
+map01230,K00948,Biosynthesis of amino acids
+map01230,K01586,Biosynthesis of amino acids
+map01230,K01649,Biosynthesis of amino acids
+map01230,K01652,Biosynthesis of amino acids
+map01230,K01653,Biosynthesis of amino acids
+map01230,K01687,Biosynthesis of amino acids
+map01230,K01689,Biosynthesis of amino acids
+map01230,K01695,Biosynthesis of amino acids
+map01230,K01696,Biosynthesis of amino acids
+map01230,K01703,Biosynthesis of amino acids
+map01230,K01704,Biosynthesis of amino acids
+map01230,K01714,Biosynthesis of amino acids
+map01230,K01733,Biosynthesis of amino acids
+map01230,K01735,Biosynthesis of amino acids
+map01230,K01736,Biosynthesis of amino acids
+map01230,K01754,Biosynthesis of amino acids
+map01230,K01755,Biosynthesis of amino acids
+map01230,K01778,Biosynthesis of amino acids
+map01230,K01783,Biosynthesis of amino acids
+map01230,K01803,Biosynthesis of amino acids
+map01230,K01817,Biosynthesis of amino acids
+map01230,K01915,Biosynthesis of amino acids
+map01230,K01940,Biosynthesis of amino acids
+map01230,K02500,Biosynthesis of amino acids
+map01230,K02501,Biosynthesis of amino acids
+map01232,K00088,Nucleotide metabolism
+map01232,K00525,Nucleotide metabolism
+map01232,K00760,Nucleotide metabolism
+map01232,K00939,Nucleotide metabolism
+map01232,K00940,Nucleotide metabolism
+map01232,K00942,Nucleotide metabolism
+map01232,K00945,Nucleotide metabolism
+map01232,K01519,Nucleotide metabolism
+map01232,K01756,Nucleotide metabolism
+map01232,K01937,Nucleotide metabolism
+map01232,K01939,Nucleotide metabolism
+map01232,K01951,Nucleotide metabolism
+map01232,K06287,Nucleotide metabolism
+map01232,K09903,Nucleotide metabolism
+map01240,K00059,Biosynthesis of cofactors
+map01240,K00382,Biosynthesis of cofactors
+map01240,K00600,Biosynthesis of cofactors
+map01240,K00609,Biosynthesis of cofactors
+map01240,K00762,Biosynthesis of cofactors
+map01240,K00789,Biosynthesis of cofactors
+map01240,K00793,Biosynthesis of cofactors
+map01240,K00794,Biosynthesis of cofactors
+map01240,K00796,Biosynthesis of cofactors
+map01240,K00826,Biosynthesis of cofactors
+map01240,K00858,Biosynthesis of cofactors
+map01240,K00859,Biosynthesis of cofactors
+map01240,K00939,Biosynthesis of cofactors
+map01240,K00940,Biosynthesis of cofactors
+map01240,K00950,Biosynthesis of cofactors
+map01240,K00954,Biosynthesis of cofactors
+map01240,K00969,Biosynthesis of cofactors
+map01240,K01491,Biosynthesis of cofactors
+map01240,K01591,Biosynthesis of cofactors
+map01240,K01698,Biosynthesis of cofactors
+map01240,K01719,Biosynthesis of cofactors
+map01240,K01749,Biosynthesis of cofactors
+map01240,K01756,Biosynthesis of cofactors
+map01240,K01885,Biosynthesis of cofactors
+map01240,K01937,Biosynthesis of cofactors
+map01240,K01939,Biosynthesis of cofactors
+map01240,K01955,Biosynthesis of cofactors
+map01240,K01956,Biosynthesis of cofactors
+map01240,K02495,Biosynthesis of cofactors
+map01240,K04487,Biosynthesis of cofactors
+map01240,K09903,Biosynthesis of cofactors
+map01240,K11752,Biosynthesis of cofactors
+map01240,K11753,Biosynthesis of cofactors
+map01240,K11754,Biosynthesis of cofactors
+map01240,K13038,Biosynthesis of cofactors
+map01250,K00075,Biosynthesis of nucleotide sugars
+map01250,K00790,Biosynthesis of nucleotide sugars
+map01250,K00820,Biosynthesis of nucleotide sugars
+map01250,K01784,Biosynthesis of nucleotide sugars
+map01250,K01810,Biosynthesis of nucleotide sugars
+map01501,K03587,beta-Lactam resistance
+map01502,K01000,Vancomycin resistance
+map01502,K01775,Vancomycin resistance
+map01502,K01921,Vancomycin resistance
+map01502,K01929,Vancomycin resistance
+map01502,K02563,Vancomycin resistance
+map01503,K01448,Cationic antimicrobial peptide (CAMP) resistance
+map01523,K00600,Antifolate resistance
+map01523,K00602,Antifolate resistance
+map01524,K17686,Platinum drug resistance
+map02010,K02036,ABC transporters
+map02010,K02037,ABC transporters
+map02010,K02038,ABC transporters
+map02010,K02040,ABC transporters
+map02010,K09811,ABC transporters
+map02020,K01915,Two-component system
+map02020,K02040,Two-component system
+map02020,K02313,Two-component system
+map02024,K02033,Quorum sensing
+map02024,K02034,Quorum sensing
+map02024,K03070,Quorum sensing
+map02024,K03073,Quorum sensing
+map02024,K03075,Quorum sensing
+map02024,K03076,Quorum sensing
+map02024,K03106,Quorum sensing
+map02024,K03110,Quorum sensing
+map02024,K03210,Quorum sensing
+map02024,K03217,Quorum sensing
+map02024,K11752,Quorum sensing
+map02040,K03086,Flagellar assembly
+map03008,K03685,Ribosome biogenesis in eukaryotes
+map03010,K02863,Ribosome
+map03010,K02864,Ribosome
+map03010,K02867,Ribosome
+map03010,K02876,Ribosome
+map03010,K02878,Ribosome
+map03010,K02879,Ribosome
+map03010,K02881,Ribosome
+map03010,K02884,Ribosome
+map03010,K02886,Ribosome
+map03010,K02888,Ribosome
+map03010,K02890,Ribosome
+map03010,K02892,Ribosome
+map03010,K02895,Ribosome
+map03010,K02897,Ribosome
+map03010,K02899,Ribosome
+map03010,K02902,Ribosome
+map03010,K02906,Ribosome
+map03010,K02907,Ribosome
+map03010,K02909,Ribosome
+map03010,K02911,Ribosome
+map03010,K02913,Ribosome
+map03010,K02916,Ribosome
+map03010,K02919,Ribosome
+map03010,K02926,Ribosome
+map03010,K02931,Ribosome
+map03010,K02933,Ribosome
+map03010,K02935,Ribosome
+map03010,K02939,Ribosome
+map03010,K02945,Ribosome
+map03010,K02948,Ribosome
+map03010,K02954,Ribosome
+map03010,K02956,Ribosome
+map03010,K02959,Ribosome
+map03010,K02961,Ribosome
+map03010,K02965,Ribosome
+map03010,K02967,Ribosome
+map03010,K02968,Ribosome
+map03010,K02986,Ribosome
+map03010,K02988,Ribosome
+map03010,K02990,Ribosome
+map03010,K02992,Ribosome
+map03010,K02994,Ribosome
+map03010,K02996,Ribosome
+map03018,K00962,RNA degradation
+map03018,K01689,RNA degradation
+map03018,K03628,RNA degradation
+map03018,K04043,RNA degradation
+map03018,K04077,RNA degradation
+map03020,K03043,RNA polymerase
+map03020,K03046,RNA polymerase
+map03030,K01972,DNA replication
+map03030,K02314,DNA replication
+map03030,K02316,DNA replication
+map03030,K02335,DNA replication
+map03030,K02337,DNA replication
+map03030,K02338,DNA replication
+map03030,K02340,DNA replication
+map03030,K02342,DNA replication
+map03030,K02343,DNA replication
+map03030,K03111,DNA replication
+map03030,K03470,DNA replication
+map03060,K03070,Protein export
+map03060,K03073,Protein export
+map03060,K03075,Protein export
+map03060,K03076,Protein export
+map03060,K03100,Protein export
+map03060,K03101,Protein export
+map03060,K03106,Protein export
+map03060,K03110,Protein export
+map03060,K03118,Protein export
+map03060,K03210,Protein export
+map03060,K03217,Protein export
+map03070,K03070,Bacterial secretion system
+map03070,K03073,Bacterial secretion system
+map03070,K03075,Bacterial secretion system
+map03070,K03076,Bacterial secretion system
+map03070,K03106,Bacterial secretion system
+map03070,K03110,Bacterial secretion system
+map03070,K03118,Bacterial secretion system
+map03070,K03210,Bacterial secretion system
+map03070,K03217,Bacterial secretion system
+map03410,K01142,Base excision repair
+map03410,K01972,Base excision repair
+map03410,K02335,Base excision repair
+map03410,K03575,Base excision repair
+map03410,K10773,Base excision repair
+map03420,K01972,Nucleotide excision repair
+map03420,K02335,Nucleotide excision repair
+map03420,K03657,Nucleotide excision repair
+map03420,K03701,Nucleotide excision repair
+map03420,K03702,Nucleotide excision repair
+map03420,K03703,Nucleotide excision repair
+map03420,K03723,Nucleotide excision repair
+map03430,K01972,Mismatch repair
+map03430,K02337,Mismatch repair
+map03430,K02338,Mismatch repair
+map03430,K02340,Mismatch repair
+map03430,K02342,Mismatch repair
+map03430,K02343,Mismatch repair
+map03430,K03111,Mismatch repair
+map03430,K03601,Mismatch repair
+map03430,K03602,Mismatch repair
+map03430,K03657,Mismatch repair
+map03440,K02335,Homologous recombination
+map03440,K02337,Homologous recombination
+map03440,K02338,Homologous recombination
+map03440,K02340,Homologous recombination
+map03440,K02342,Homologous recombination
+map03440,K02343,Homologous recombination
+map03440,K03111,Homologous recombination
+map03440,K03550,Homologous recombination
+map03440,K03551,Homologous recombination
+map03440,K03553,Homologous recombination
+map03440,K03584,Homologous recombination
+map03440,K03655,Homologous recombination
+map03440,K04066,Homologous recombination
+map03440,K06187,Homologous recombination
+map04013,K04564,MAPK signaling pathway - fly
+map04016,K00940,MAPK signaling pathway - plant
+map04016,K17686,MAPK signaling pathway - plant
+map04066,K00134,HIF-1 signaling pathway
+map04066,K00927,HIF-1 signaling pathway
+map04066,K01689,HIF-1 signaling pathway
+map04068,K04564,FoxO signaling pathway
+map04070,K00981,Phosphatidylinositol signaling system
+map04112,K01358,Cell cycle - Caulobacter
+map04112,K02313,Cell cycle - Caulobacter
+map04112,K02314,Cell cycle - Caulobacter
+map04112,K02563,Cell cycle - Caulobacter
+map04112,K03531,Cell cycle - Caulobacter
+map04112,K03544,Cell cycle - Caulobacter
+map04112,K03589,Cell cycle - Caulobacter
+map04112,K11749,Cell cycle - Caulobacter
+map04122,K00566,Sulfur relay system
+map04122,K04487,Sulfur relay system
+map04146,K04564,Peroxisome
+map04211,K04564,Longevity regulating pathway
+map04212,K01358,Longevity regulating pathway - worm
+map04212,K04043,Longevity regulating pathway - worm
+map04212,K04077,Longevity regulating pathway - worm
+map04212,K04564,Longevity regulating pathway - worm
+map04213,K04564,Longevity regulating pathway - multiple species
+map04217,K01915,Necroptosis
+map04621,K03671,NOD-like receptor signaling pathway
+map04724,K01915,Glutamatergic synapse
+map04727,K01915,GABAergic synapse
+map04922,K00873,Glucagon signaling pathway
+map04930,K00873,Type II diabetes mellitus
+map04931,K00820,Insulin resistance
+map04940,K04077,Type I diabetes mellitus
+map04978,K17686,Mineral absorption
+map05010,K00134,Alzheimer disease
+map05012,K03671,Parkinson disease
+map05016,K04564,Huntington disease
+map05130,K00134,Pathogenic Escherichia coli infection
+map05132,K00134,Salmonella infection
+map05132,K03671,Salmonella infection
+map05134,K03596,Legionellosis
+map05134,K04077,Legionellosis
+map05152,K02040,Tuberculosis
+map05152,K04043,Tuberculosis
+map05152,K04077,Tuberculosis
+map05165,K00873,Human papillomavirus infection
+map05203,K00873,Viral carcinogenesis
+map05205,K03685,Proteoglycans in cancer
+map05208,K04564,Chemical carcinogenesis - reactive oxygen species
+map05230,K00873,Central carbon metabolism in cancer
+map05415,K00134,Diabetic cardiomyopathy
+map05415,K00820,Diabetic cardiomyopathy
+map05417,K04077,Lipid and atherosclerosis
+map05417,K04564,Lipid and atherosclerosis
+map05418,K01940,Fluid shear stress and atherosclerosis
+map05418,K03671,Fluid shear stress and atherosclerosis
